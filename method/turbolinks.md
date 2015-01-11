@@ -18,6 +18,12 @@ gem "turbolinks", require: false
 
 The ```require: false``` but is just something that you have to override for Middleman due to certain quirks with gems being made for Rails and expecting files to be in a specific folder. By saying the library is not required, you are just saying "if it is not in that Rails folder, don't worry about it!".
 
+Make sure you install the gem by running:
+
+```
+bundle install
+```
+
 Next we need to load it up into our layout.
 
 First we need to include it via a javascript file.
