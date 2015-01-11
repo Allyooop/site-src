@@ -47,6 +47,11 @@
 #   end
 # end
 
+activate :blog do |blog|
+  blog.permalink = "blog/{title}.html"
+end
+
+
 set :css_dir, 'stylesheets'
 
 set :js_dir, 'javascripts'
