@@ -52,6 +52,7 @@ activate :blog do |blog|
   blog.sources = "blog/:title.html"
 end
 
+page "/blog/*", :layout => "blog"
 
 set :css_dir, 'stylesheets'
 
