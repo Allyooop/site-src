@@ -4,9 +4,12 @@
 @import "overides.scss";
 @import "sections.scss";
 
-.blog {
+.author {
+  color: $brand-primary;
+  font-weight: 500;
+  font-family: $font-family-sans-serif;
   
-  img {
-    width: 100%;
+  span {
+    float: right;
   }
 }
