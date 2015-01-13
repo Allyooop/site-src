@@ -47,7 +47,7 @@ Sidebar has yet another email us button. I'll press that. Third time the charm?
 
 FINALLY A FORM! Before I got too excited, this form wasn't for ***me***. Everything listed was for customers and nothing about emailing them a small error I found.
 
-Maybe I should have just gamed the form and sent the stuff anyway. But I didn't. I gave up there. Went to twitter. A lot of companies that is the best bet. Should have tried it faster I thought to myself. I'll get the email that way! Being a bit of an arse, this is what I tweeted:
+Maybe I should have just gamed the form and sent the stuff anyway. But I didn't. I gave up there. Went to twitter. A lot of companies that is the best bet. Should have tried it faster I thought to myself. I'll get the email that way!
 
 Didn't happen.
 
