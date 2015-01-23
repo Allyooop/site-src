@@ -11,7 +11,7 @@ A little while back on Twitter I teased the Safari books team about the lack of 
 
 Apparently I wasn't alone in that feeling. There is a whole Google+ group created to appease/lock away all of us annoyed Androiders.
 
-I like Safari. Yeah, thre are a few things that would improve the experience but the lack of an Android app is a major miss.
+I like Safari. Yeah, there are a few things that would improve the experience but the lack of an Android app is a major miss.
 
 > #### WHY OH GOD WHY DO THEY NOT HAVE SYNTAX HIGHLIGHTING?
 > Seriously tech book people, get some bloody syntax highlighting in your books! Mmmmm greyscale code. And Safari, why don't you just force it into their books? Seriously?
@@ -40,7 +40,7 @@ They understood they failed it up. Safari's CEO said they were just waiting for 
 
 I'm looking forwarding to using it. But, that isn't how you launch your beta android app.
 
-If you have an international audience, double check you haven't added (or not removed!) any uneeded restrictions
+If you have an international audience, double check you haven't added (or not removed!) any unneeded restrictions
 
 Ball dropped.
 
