@@ -9,7 +9,7 @@ author: Andrew Duckworth
 
 A little while back on Twitter I teased the Safari books team about the lack of an Android app. They had one in the pipeline but nothing had come of it.
 
-Apparently I wasn't alone in that feeling and there was a whole Google+ group created to appease/lock away all of us annoyed Androiders.
+Apparently I wasn't alone in that feeling. There is a whole Google+ group created to appease/lock away all of us annoyed Androiders.
 
 I like Safari. Yeah, thre are a few things that would improve the experience but the lack of an Android app is a major miss.
 
@@ -23,10 +23,11 @@ Hurrah sang the chorus.
 Well, that is until they tried downloading the app.
 
 <html>
-<img src="https://pbs.twimg.com/media/B8C81KqIYAAwRE2.jpg" class="small-img" height="400px">
+<img src="https://pbs.twimg.com/media/B8C81KqIYAAwRE2.jpg" class="small-img" height="400">
 </html>
 
-That is a mega fail. I'm in the UK and the Google+ group all seemed to suffer a similar fate.
+
+That is a mega fail. I'm in the UK and the Google+ group all seemed to suffer a similar fate, if they weren't based in the US.
 
 I did what any hero does in that situation and sardonically moaned on Twitter
 
@@ -35,8 +36,15 @@ I did what any hero does in that situation and sardonically moaned on Twitter
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </html>
 
-They understood they failed it up. And said they were just waiting for Google Play to update. That was several hours ago and it still hasn't for me.
+They understood they failed it up. Safari's CEO said they were just waiting for Google Play to update. That was several hours ago and it still hasn't for me.
 
 I'm looking forwarding to using it. But, that isn't how you launch your beta android app.
 
 If you have an international audience, double check you haven't added (or not removed!) any uneeded restrictions
+
+Ball dropped.
+
+<html>
+<img src="http://cdn.fansided.com/wp-content/blogs.dir/229/files/2013/10/wainwrightWS1.gif" class="small-img" height="400">
+</html>
+
