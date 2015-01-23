@@ -2,6 +2,7 @@
 title: How not to launch your beta android app
 date:  18:21 UTC
 tags: product, ux, safari, android, mobile
+author: Andrew Duckworth
 ---
 
 # How not to launch your beta android app
@@ -12,7 +13,7 @@ Apparently I wasn't alone in that feeling and there was a whole Google+ group cr
 
 I like Safari. Yeah, thre are a few things that would improve the experience but the lack of an Android app is a major miss.
 
-> ### WHY OH GOD WHY DO THEY NOT HAVE SYNTAX HIGHLIGHTING?
+> #### WHY OH GOD WHY DO THEY NOT HAVE SYNTAX HIGHLIGHTING?
 > Seriously tech book people, get some bloody syntax highlighting in your books! Mmmmm greyscale code. And Safari, why don't you just force it into their books? Seriously?
 
 After some design previews, today ```23-01-2015``` Safari actually gone and dropped the app.
