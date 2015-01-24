@@ -28,3 +28,10 @@ travelling through pages, chapters. Links.
 
 ### unlimited downloading
 
+#### Features
+
+Would be nice to have a schedule download, so if I am on the road I can say "when I'm in wifi get this book"
+
+Notifications of new books in my areas of interest
+
+ability to watch videos
