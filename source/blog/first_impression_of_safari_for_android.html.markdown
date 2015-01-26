@@ -1,6 +1,6 @@
 ---
 title: First impression of safari for android
-date: 2015-01-23 21:56 UTC
+date: 2015-01-26 21:56 UTC
 tags: safari, android
 author: Andrew Duckworth
 ---
