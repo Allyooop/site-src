@@ -7,7 +7,7 @@ author: Andrew Duckworth
 
 # First impression of safari for android
 
-The beta test of the new Safari app got off to a bit of a rough start. It was impossible to download outside the US for quite a while, which was pretty annoying for something you pay for. But a hickup is a hickup. Took a bit of a hack around but I got the app to download. (nothing fancy, just using the browser to force a download rather than using the native access to the play store download)
+The beta test of the new Safari app got off to a bit of a rough start. It was impossible to download outside the US for quite a while, which was pretty annoying for something you pay for. But a hiccup is a hiccup. Took a bit of a hack around but I got the app to download. (nothing fancy, just using the browser to force a download rather than using the native access to the play store download)
 
 The beta app has a dedicated Google+ group (or a pen to keep all of the eager/annoyed beta testers contained within) which is a really interesting option.
 
@@ -59,5 +59,5 @@ Similarly, when can we get some syntax highlighting sugar in there?
 
 Being part of this journey is fun and it is also informative for the product I am building. Allyooop! is basically a platform that lets you submit, track and measure your app's alpha and beta journey. It lets you select tester profiles as well as have both normal users as well as an army of bots test and pull apart your app. It even has a select team of consultants and product experts able to give you their input on important functionality or possible pivots.
 
-Allyooop! also has load testing and choas testing functionalities so that you are able to really get the most out of your beta period. However, all of that is for another day.
+Allyooop! also has load testing and chaos-testing functionalities so that you are able to really get the most out of your beta period. However, all of that is for another day.
 
