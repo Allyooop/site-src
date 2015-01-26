@@ -5,6 +5,10 @@ tags: safari, android
 author: Andrew Duckworth
 ---
 
+The beta test of the new Safari app got off to a bit of a rough start. It was impossible to download outside the US for quite a while, which was pretty annoying for a something you pay for. But a hickup is a hickup. Took a bit of a hack around but I got the app to download.
+
+The app has a dedicated Google+ group 
+
 # First impression of safari for android
 
 * nice to have unlimited downloads

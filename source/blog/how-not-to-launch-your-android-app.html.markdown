@@ -45,6 +45,6 @@ If you have an international audience, double check you haven't added (or not re
 Ball dropped.
 
 <html>
-<img src="http://cdn.fansided.com/wp-content/blogs.dir/229/files/2013/10/wainwrightWS1.gif" class="small-img" height="400">
+<img src="http://cdn.fansided.com/wp-content/blogs.dir/229/files/2013/10/wainwrightWS1.gif" class="small-img" height="400" width="100%">
 </html>
 
