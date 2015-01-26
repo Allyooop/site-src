@@ -17,13 +17,13 @@ In terms of the reading experience it isn't great yet. There are two chunky butt
 
 In regard to the two ugly buttons however, they seems to lose all sense of place. They currently show a different chapter number from the one of the book. As seen by this screenshot below of the second section of chapter one:
 
-![chapter_one_screenshot](https://lh4.googleusercontent.com/-mMeURNd6PCc/VMa9me_eHWI/AAAAAAAAINE/qNx-0JCKPGE/w506-h900/Screenshot_2015-01-24-12-58-20.png)
+<img alt="chapter_one_screenshot" height="350" src="https://lh4.googleusercontent.com/-mMeURNd6PCc/VMa9me_eHWI/AAAAAAAAINE/qNx-0JCKPGE/w506-h900/Screenshot_2015-01-24-12-58-20.png" />
 
 After downloading four or five books however the entire reading process borked up.
 
 I lost the ability for text to render inside books at all for about a day:
 
-![no_text_in_a_book](https://lh6.googleusercontent.com/-pUtbY4n-_Qc/VMa-0MbQhRI/AAAAAAAAIOE/evqii-zpwoI/w426-h757/Screenshot_2015-01-26-19-55-56.png)
+<p><img alt="no_text_in_a_book" height="350" src="https://lh6.googleusercontent.com/-pUtbY4n-_Qc/VMa-0MbQhRI/AAAAAAAAIOE/evqii-zpwoI/w426-h757/Screenshot_2015-01-26-19-55-56.png" /></p>
 
 As you can see, header and footer okay. Text nowhere to be seen.
 
@@ -31,7 +31,7 @@ I pressed everything I could to no avail.
 
 I eventually got text back a day or so later by crashing the app and sending a bug report. As I did the text magically reappeared in the background. Like so:
 
-![crash_to_the_rescue](https://lh5.googleusercontent.com/-U5063SPF8_M/VMa-78A7h5I/AAAAAAAAIO8/GJ-sKxiHmDs/w426-h757/Screenshot_2015-01-26-19-56-07.png)
+<p><img alt="crash_to_the_rescue" height="350" src="https://lh5.googleusercontent.com/-U5063SPF8_M/VMa-78A7h5I/AAAAAAAAIO8/GJ-sKxiHmDs/w426-h757/Screenshot_2015-01-26-19-56-07.png" /></p>
 
 Odd one!
 
@@ -39,7 +39,7 @@ What is even stranger is that this now happens on every load of the app. Yay?
 
 In some books I am also getting strange symbols instead of chapters. This was from a pre-publication book so it might be due to that but no idea:
 
-![fail_again](https://lh5.googleusercontent.com/-OBFM1atpRpU/VMa-4YP5QUI/AAAAAAAAIOk/dhcL7nLrNkA/w426-h757/Screenshot_2015-01-25-22-06-15.png)
+<p><img alt="fail_again" height="350" src="https://lh5.googleusercontent.com/-OBFM1atpRpU/VMa-4YP5QUI/AAAAAAAAIOk/dhcL7nLrNkA/w426-h757/Screenshot_2015-01-25-22-06-15.png" /></p>
 
 ### other thoughts
 
